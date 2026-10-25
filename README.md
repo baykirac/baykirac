@@ -60,13 +60,6 @@ I care about maintainable architecture, typed and predictable code, and getting 
 
 Most of my professional work lives in private corporate repositories. A few personal projects are public:
 
-| Repository | Description | Stack |
-|---|---|---|
-| [NFS2AutoDriving](https://github.com/baykirac/NFS2AutoDriving) | Computer vision based self-driving experiment on a racing game | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [AcademicianAndStudentMS](https://github.com/baykirac/AcademicianAndStudentMS) | Communication management system between students and academicians | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| [Excel-Wordcloud](https://github.com/baykirac/Excel-Wordcloud) | Desktop tool that builds a word cloud from a selected Excel column and exports it | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square) |
-| [Project-Euler](https://github.com/baykirac/Project-Euler) | Solutions to Project Euler problems | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square) |
-
 <p align="right"><a href="#top">Back to top</a></p>
 
 ---
@@ -113,13 +106,6 @@ Sürdürülebilir mimariye, tip güvenli ve öngörülebilir koda ve uygulamalar
 ### Öne Çıkan Açık Repolar
 
 Profesyonel çalışmalarımın büyük kısmı kurumsal ve kapalı repolarda bulunuyor. Açık olan kişisel projelerimden bazıları:
-
-| Repo | Açıklama | Teknoloji |
-|---|---|---|
-| [NFS2AutoDriving](https://github.com/baykirac/NFS2AutoDriving) | Bir yarış oyunu üzerinde görüntü işleme tabanlı otonom sürüş denemesi | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [AcademicianAndStudentMS](https://github.com/baykirac/AcademicianAndStudentMS) | Öğrenci ve akademisyen arasındaki iletişimi yöneten sistem | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| [Excel-Wordcloud](https://github.com/baykirac/Excel-Wordcloud) | Excel dosyasındaki seçili sütundan kelime bulutu üreten masaüstü uygulaması | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square) |
-| [Project-Euler](https://github.com/baykirac/Project-Euler) | Project Euler problem çözümleri | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square) |
 
 <p align="right"><a href="#top">Başa dön</a></p>
 
