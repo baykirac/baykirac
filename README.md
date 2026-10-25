@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,50:512BD4,100:EE0000&height=200&section=header&text=Mehmet%20Burkay%20K%C4%B1ra%C3%A7&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer&descAlignY=56&descSize=18&animation=fadeIn" alt="Header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,50:512BD4,100:EE0000&height=200&section=header&text=M.%20Burkay&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer&descAlignY=56&descSize=18&animation=fadeIn" alt="Header" width="100%">
 </p>
 
 <p align="center">
