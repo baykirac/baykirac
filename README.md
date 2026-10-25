@@ -1,20 +1,22 @@
 <a id="top"></a>
 
-<h1 align="center">Mehmet Burkay Kıraç</h1>
-
 <p align="center">
-  <b>Full-Stack Software Engineer</b><br>
-  React &amp; TypeScript · .NET &amp; C# · GIS · Containerized Delivery
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,50:512BD4,100:EE0000&height=200&section=header&text=Mehmet%20Burkay%20K%C4%B1ra%C3%A7&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer&descAlignY=56&descSize=18&animation=fadeIn" alt="Header" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/baykirac/"><img src="https://img.shields.io/badge/LinkedIn-baykirac-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/baykirac"><img src="https://img.shields.io/badge/GitHub-baykirac-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/Location-Ankara%2C%20T%C3%BCrkiye-4B5563?style=flat-square" alt="Ankara, Türkiye">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=3178C6&center=true&vCenter=true&width=620&lines=React+%2B+TypeScript+on+the+front;.NET+%2B+C%23+on+the+back;REST+and+SOAP+APIs+in+between;Shipped+with+Docker+and+OpenShift;Secured+with+Keycloak+and+3scale;Maps%2C+layers+and+spatial+data" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <a href="#english"><b>English</b></a> &nbsp;|&nbsp; <a href="#turkce"><b>Türkçe</b></a>
+  <a href="https://www.linkedin.com/in/baykirac/"><img src="https://img.shields.io/badge/LinkedIn-baykirac-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/baykirac"><img src="https://img.shields.io/badge/GitHub-baykirac-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/Ankara-T%C3%BCrkiye-E30A17?style=for-the-badge" alt="Ankara, Türkiye">
+</p>
+
+<p align="center">
+  <a href="#english"><img src="https://img.shields.io/badge/Read_in-English-3178C6?style=flat-square" alt="English"></a>
+  <a href="#turkce"><img src="https://img.shields.io/badge/T%C3%BCrk%C3%A7e-Oku-E30A17?style=flat-square" alt="Türkçe"></a>
 </p>
 
 ---
@@ -29,28 +31,23 @@ I am a full-stack software engineer at **TCDD Teknik Mühendislik ve Müşavirli
 
 I care about maintainable architecture, typed and predictable code, and getting applications into production reliably. That includes containerizing services, deploying them on OpenShift, and securing them with Keycloak and API management.
 
+### Right Now
+
+| | |
+|---|---|
+| **Working on** | Full-stack GIS web applications at TCDD Teknik |
+| **Studying** | M.Sc. in Computer Engineering at Konya Technical University |
+| **Off the clock** | Arduino and IoT projects: sensors, servos and motor drivers |
+
 ### What I Work On
 
 | Area | Focus |
 |---|---|
 | **Frontend** | Component-based React applications with TypeScript, custom hooks, context-based state management, Tailwind CSS |
-| **Backend** | ASP.NET Core REST APIs, Clean Architecture, Entity Framework Core (code-first), microservice and MVC architectures |
+| **Backend** | .NET (C#) with ASP.NET Core, REST and SOAP web services, Clean Architecture, Entity Framework Core, microservice and MVC architectures; Python services with Flask and Django |
 | **Data** | PostgreSQL / PostGIS, SQL Server, Oracle, MySQL; schema and query design |
 | **DevOps & Platform** | Docker, Red Hat OpenShift, Keycloak (OIDC / SSO), Red Hat 3scale API Management, GitLab CI/CD |
-| **GIS** | OpenLayers, GeoServer (WMS / WFS / WMTS), spatial queries, CQL filtering, projection handling, GeoJSON / KML |
-
-### Experience
-
-| Role | Company | Period |
-|---|---|---|
-| Full-Stack Software Engineer | TCDD Teknik Mühendislik ve Müşavirlik A.Ş. | Oct 2025 – Present |
-| Full-Stack Developer | Başarsoft | Oct 2024 – Sep 2025 |
-| Backend Developer (Intern) | Huawei | Aug 2024 – Sep 2024 |
-| Full-Stack Developer (Intern) | Başarsoft | Jul 2024 – Aug 2024 |
-| Backend Developer | LTA Global | Dec 2022 – Mar 2024 |
-| Freelance Developer | Bionluk | Aug 2021 – Jun 2023 |
-
-Freelance work covered 45+ delivered projects, including .NET desktop and web applications, Python automation, and data and image processing solutions.
+| **GIS** | OpenLayers, GeoServer (WMS / WFS / WMTS), QGIS, ArcGIS, spatial queries, CQL filtering, projection handling, GeoJSON / KML |
 
 ### Education
 
@@ -65,10 +62,10 @@ Most of my professional work lives in private corporate repositories. A few pers
 
 | Repository | Description | Stack |
 |---|---|---|
-| [NFS2AutoDriving](https://github.com/baykirac/NFS2AutoDriving) | Computer vision based self-driving experiment on a racing game | Python |
-| [AcademicianAndStudentMS](https://github.com/baykirac/AcademicianAndStudentMS) | Communication management system between students and academicians | HTML, Web |
-| [Excel-Wordcloud](https://github.com/baykirac/Excel-Wordcloud) | Desktop tool that builds a word cloud from a selected Excel column and exports it | C#, .NET |
-| [Project-Euler](https://github.com/baykirac/Project-Euler) | Solutions to Project Euler problems | C# |
+| [NFS2AutoDriving](https://github.com/baykirac/NFS2AutoDriving) | Computer vision based self-driving experiment on a racing game | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [AcademicianAndStudentMS](https://github.com/baykirac/AcademicianAndStudentMS) | Communication management system between students and academicians | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [Excel-Wordcloud](https://github.com/baykirac/Excel-Wordcloud) | Desktop tool that builds a word cloud from a selected Excel column and exports it | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square) |
+| [Project-Euler](https://github.com/baykirac/Project-Euler) | Solutions to Project Euler problems | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square) |
 
 <p align="right"><a href="#top">Back to top</a></p>
 
@@ -78,34 +75,33 @@ Most of my professional work lives in private corporate repositories. A few pers
 
 ## Türkçe
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E30A17&center=true&vCenter=true&width=620&lines=%C3%96ny%C3%BCzde+React+%2B+TypeScript;Arka+u%C3%A7ta+.NET+%2B+C%23;Arada+REST+ve+SOAP+servisleri;Docker+ve+OpenShift+ile+canl%C4%B1ya;Keycloak+ve+3scale+ile+g%C3%BCvende;Haritalar%2C+katmanlar+ve+mek%C3%A2nsal+veri" alt="Typing SVG">
+</p>
+
 ### Hakkımda
 
 **TCDD Teknik Mühendislik ve Müşavirlik A.Ş.** bünyesinde full-stack yazılım mühendisi olarak çalışıyorum. Web uygulamalarını uçtan uca geliştiriyorum: önyüzde React ve TypeScript, arka uçta .NET (C#), altyapıda ilişkisel veritabanları. Üzerinde çalıştığım ürünlerin büyük kısmı coğrafi bilgi sistemleri alanında olduğu için harita tabanlı arayüzler ve mekânsal veri günlük işimin doğal bir parçası.
 
 Sürdürülebilir mimariye, tip güvenli ve öngörülebilir koda ve uygulamaların canlıya güvenilir şekilde alınmasına önem veriyorum. Bu süreç servislerin konteynerleştirilmesini, OpenShift üzerinde dağıtılmasını ve Keycloak ile API yönetimi katmanında güvenliğinin sağlanmasını da kapsıyor.
 
+### Şu Sıralar
+
+| | |
+|---|---|
+| **İş** | TCDD Teknik'te full-stack CBS web uygulamaları geliştiriyorum |
+| **Okul** | Konya Teknik Üniversitesi'nde Bilgisayar Mühendisliği yüksek lisansı yapıyorum |
+| **İş dışında** | Arduino ve IoT projeleri: sensörler, servolar ve motor sürücüler |
+
 ### Çalışma Alanlarım
 
 | Alan | Odak |
 |---|---|
 | **Frontend** | TypeScript ile bileşen tabanlı React uygulamaları, custom hook yapıları, context tabanlı state yönetimi, Tailwind CSS |
-| **Backend** | ASP.NET Core REST API, Clean Architecture, Entity Framework Core (code-first), mikroservis ve MVC mimarileri |
+| **Backend** | ASP.NET Core ile .NET (C#), REST ve SOAP web servisleri, Clean Architecture, Entity Framework Core, mikroservis ve MVC mimarileri; Flask ve Django ile Python servisleri |
 | **Veri** | PostgreSQL / PostGIS, SQL Server, Oracle, MySQL; şema ve sorgu tasarımı |
 | **DevOps ve Platform** | Docker, Red Hat OpenShift, Keycloak (OIDC / SSO), Red Hat 3scale API Management, GitLab CI/CD |
-| **CBS** | OpenLayers, GeoServer (WMS / WFS / WMTS), mekânsal sorgular, CQL filtreleme, projeksiyon dönüşümleri, GeoJSON / KML |
-
-### Deneyim
-
-| Pozisyon | Şirket | Dönem |
-|---|---|---|
-| Full-Stack Yazılım Mühendisi | TCDD Teknik Mühendislik ve Müşavirlik A.Ş. | Ekim 2025 – Halen |
-| Full-Stack Developer | Başarsoft | Ekim 2024 – Eylül 2025 |
-| Backend Developer (Stajyer) | Huawei | Ağustos 2024 – Eylül 2024 |
-| Full-Stack Developer (Stajyer) | Başarsoft | Temmuz 2024 – Ağustos 2024 |
-| Backend Developer | LTA Global | Aralık 2022 – Mart 2024 |
-| Freelance Developer | Bionluk | Ağustos 2021 – Haziran 2023 |
-
-Freelance süreçte .NET masaüstü ve web uygulamaları, Python otomasyonları, veri ve görüntü işleme çözümleri olmak üzere 45'ten fazla proje teslim ettim.
+| **CBS** | OpenLayers, GeoServer (WMS / WFS / WMTS), QGIS, ArcGIS, mekânsal sorgular, CQL filtreleme, projeksiyon dönüşümleri, GeoJSON / KML |
 
 ### Eğitim
 
@@ -120,10 +116,10 @@ Profesyonel çalışmalarımın büyük kısmı kurumsal ve kapalı repolarda bu
 
 | Repo | Açıklama | Teknoloji |
 |---|---|---|
-| [NFS2AutoDriving](https://github.com/baykirac/NFS2AutoDriving) | Bir yarış oyunu üzerinde görüntü işleme tabanlı otonom sürüş denemesi | Python |
-| [AcademicianAndStudentMS](https://github.com/baykirac/AcademicianAndStudentMS) | Öğrenci ve akademisyen arasındaki iletişimi yöneten sistem | HTML, Web |
-| [Excel-Wordcloud](https://github.com/baykirac/Excel-Wordcloud) | Excel dosyasındaki seçili sütundan kelime bulutu üreten masaüstü uygulaması | C#, .NET |
-| [Project-Euler](https://github.com/baykirac/Project-Euler) | Project Euler problem çözümleri | C# |
+| [NFS2AutoDriving](https://github.com/baykirac/NFS2AutoDriving) | Bir yarış oyunu üzerinde görüntü işleme tabanlı otonom sürüş denemesi | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [AcademicianAndStudentMS](https://github.com/baykirac/AcademicianAndStudentMS) | Öğrenci ve akademisyen arasındaki iletişimi yöneten sistem | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [Excel-Wordcloud](https://github.com/baykirac/Excel-Wordcloud) | Excel dosyasındaki seçili sütundan kelime bulutu üreten masaüstü uygulaması | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square) |
+| [Project-Euler](https://github.com/baykirac/Project-Euler) | Project Euler problem çözümleri | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square) |
 
 <p align="right"><a href="#top">Başa dön</a></p>
 
@@ -131,51 +127,76 @@ Profesyonel çalışmalarımın büyük kısmı kurumsal ve kapalı repolarda bu
 
 ## Tech Stack / Teknolojiler
 
-**Frontend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,dotnet,cs,py,flask,django,postgres,mysql,docker,gitlab,git,postman,figma&perline=10" alt="Skill icons">
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+### Frontend
 
-**Backend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</p>
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+### Backend
 
-**Database**
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" alt="C#">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/EF_Core-6C3FC5?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core">
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" alt="REST API">
+  <img src="https://img.shields.io/badge/SOAP-FF9800?style=for-the-badge" alt="SOAP">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Database
 
-**DevOps & Platform**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge" alt="PostGIS">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge" alt="Oracle">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
-![3scale](https://img.shields.io/badge/3scale_API_Management-EE0000?style=flat-square&logo=redhat&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### DevOps & Platform
 
-**GIS**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="OpenShift">
+  <img src="https://img.shields.io/badge/Keycloak-008AAA?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak">
+  <img src="https://img.shields.io/badge/3scale_API_Management-CC0000?style=for-the-badge&logo=redhat&logoColor=white" alt="3scale">
+  <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
-![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white)
-![GeoServer](https://img.shields.io/badge/GeoServer-2F6FA7?style=flat-square)
-![OGC](https://img.shields.io/badge/OGC_WMS%2FWFS%2FWMTS-4B5563?style=flat-square)
+### GIS
 
-**Tools**
+<p>
+  <img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white" alt="OpenLayers">
+  <img src="https://img.shields.io/badge/GeoServer-2F6FA7?style=for-the-badge" alt="GeoServer">
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS">
+  <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge" alt="ArcGIS">
+  <img src="https://img.shields.io/badge/OGC-WMS%20%7C%20WFS%20%7C%20WMTS-4B5563?style=for-the-badge" alt="OGC">
+</p>
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE0000,50:512BD4,100:3178C6&height=120&section=footer" alt="Footer" width="100%">
+</p>
